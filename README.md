@@ -1,2 +1,2 @@
-# verify_privacy_interface
+# Verify Privacy Interface
 Materials for CS 3750
